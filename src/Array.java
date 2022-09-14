@@ -29,7 +29,7 @@ public class Array {
 
 
         int odd =0, even = 0;
-        int n []= new int[3];
+        int n[]= new int[3];
         Scanner sc = new Scanner(System.in);
 
         for(int i=0;i<n.length;i++) {
