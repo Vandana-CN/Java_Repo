@@ -27,7 +27,7 @@ public class Array {
 
     public static void main(String[] args) {
 
-        
+
         int odd =0, even = 0;
         int n []= new int[3];
         Scanner sc = new Scanner(System.in);
