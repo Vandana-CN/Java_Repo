@@ -7,6 +7,7 @@ public class Array1D {
         int range;
         int min = Array[0];
         int max = Array[0];
+
         for(int i=1;i<n;i++)
         {
             if(Array[i]<min)
@@ -42,7 +43,13 @@ public class Array1D {
         }
         System.out.println();
 
-        System.out.println(MinMax(n,Arr));
+        if(Arr.length == 1)
+        {
+            System.out.println("Range - "+ Arr[0]);
+        }
+        else{
 
+        System.out.println(MinMax(n,Arr));
+        }
     }
 }
