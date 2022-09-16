@@ -1,4 +1,4 @@
-public class EvenNumberFrom1to20 {
+public class EvenOddNumbersFrom1to20 {
     public static void main(String[] args) {
 
         System.out.println("Even numbers between 1 and 20 -");
