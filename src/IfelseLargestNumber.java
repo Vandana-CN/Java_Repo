@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Ifelse {
+public class IfelseLargestNumber {
     public static void main(String[] args) {
         int x,y,z,temp,f;
         Scanner sc = new Scanner(System.in);

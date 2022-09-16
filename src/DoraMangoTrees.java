@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Dora {
+public class DoraMangoTrees {
     public static void main(String[] args) {
         int row,col,tree;
         Scanner sc = new Scanner(System.in);

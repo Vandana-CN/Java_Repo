@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TwoDArray {
+public class MatrixMagicSquare {
 
     static int MagicMat(int Matrix[][], int y)
     {

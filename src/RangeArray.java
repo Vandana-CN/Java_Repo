@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Array1D {
+public class RangeArray {
 
     static int MinMax(int n, int Array[])
     {
@@ -45,7 +45,7 @@ public class Array1D {
 
         if(Arr.length == 1)
         {
-            System.out.println("Range - "+ Arr[0]);
+            System.out.println("Only one element is present in the array "+ Arr[0]);
         }
         else{
 
