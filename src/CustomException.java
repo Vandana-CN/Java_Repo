@@ -7,7 +7,6 @@ class captchaException extends Exception
     }
 }
 
-
 class OwnException
 {
     void CheckCaptcha(int captcha) throws captchaException

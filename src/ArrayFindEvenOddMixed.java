@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Array {
+public class ArrayFindEvenOddMixed {
 
     public void find(int o,int e,int length)
     {
@@ -45,7 +45,7 @@ public class Array {
         }
 
 
-        Array obj = new Array();
+        ArrayFindEvenOddMixed obj = new ArrayFindEvenOddMixed();
         obj.find(odd,even,n.length);
 
 
