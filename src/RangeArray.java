@@ -31,12 +31,12 @@ public class RangeArray {
         System.out.println("Enter - ");
         n = sc.nextInt();
         int Arr[] = new int[n];
-        //Input
+
         for(int i=0;i<n;i++)
         {
             Arr[i] = sc.nextInt();
         }
-        //Output
+
         for(int i=0;i<Arr.length;i++)
         {
             System.out.print(Arr[i]+" ");

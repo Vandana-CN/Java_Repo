@@ -42,7 +42,7 @@ public class MatrixMagicSquare {
         x = sc.nextInt();
         int Mat[][] = new int[x][x];
         System.out.println("Enter elements of the array");
-        //Input
+
         for(int i=0;i<x;i++)
         {
             for(int  j=0;j<x;j++)
@@ -50,7 +50,7 @@ public class MatrixMagicSquare {
                 Mat[i][j] = sc.nextInt();
             }
         }
-        //Print
+
         for(int i=0;i<x;i++)
         {
             for(int  j=0;j<x;j++)
