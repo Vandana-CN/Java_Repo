@@ -16,7 +16,7 @@ class sample extends Mat
     }
 
 
-public class RunTPoly extends Mat {
+public class RunTimePolymorphism extends Mat {
     public static void main(String[] args) {
         Mat obj = new sample();
         obj.Add(2,3);

@@ -46,7 +46,7 @@ class BrowserHistory {
 
 }
 
-    public class BH {
+    public class BrowserHistoryCode {
         public static void main(String[] args) {
 
             BrowserHistory obj = new BrowserHistory("Home.com");

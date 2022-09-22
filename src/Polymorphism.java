@@ -14,7 +14,7 @@ class Math
 
 }
 
-public class Poly {
+public class Polymorphism {
     public static void main(String[] args) {
 
         Math obj = new Math();
